@@ -27,3 +27,13 @@
     background-color: red;
     color: white;
 }
+
+#main {
+    background-color:rgb(250, 231, 231);
+}
+
+#title {
+    color:red;
+    text-align: center;
+    font-family: 'italics';
+}
